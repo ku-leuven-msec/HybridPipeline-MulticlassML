@@ -1,1 +1,7 @@
-# HybridPipeline-MulticlassML
+# Advanced strategies for privacy preserving data publishing to improve multi-class classification
+This git repository contains the results of the experiments conducted in the paper "Advanced strategies for privacy preserving data publishing to improve multi-class classification". Along with a complete overview of all our experimental results, we also provide the generalization hierarchies employed in our hybrid anonymization pipeline.
+
+## Abstract
+Data anonymization has become an essential preprocessing step in many analytics, especially the ones that rely on machine learning. Retrieving external data sources can significantly improve the quality of machine learning models but the sensitive nature often hinders data exchange. On the other hand, anonymization tactics can substantially decrease their utility resulting in inferior machine learning models. This work assesses the quality of anonymized datasets for multi-class classification purposes. A hybrid anonymization pipeline is employed, combining masking and sampling. Deliberate sampling - achieved by balancing the target attribute - not only offers strong and quantifiable privacy guarantees but also improves the utility of released datasets. Our findings are supported by experiments that are executed on three distinct datasets, demonstrating the effectiveness of the approach.
+## Authors
+Tibo Laperre, Jenno Verdonck, Kevin De Boeck, Michiel Willocx and Vincent Naessens
