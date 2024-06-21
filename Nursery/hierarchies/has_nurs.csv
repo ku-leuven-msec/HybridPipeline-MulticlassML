@@ -1,0 +1,5 @@
+proper;proper;*
+less_proper;proper;*
+improper;improper;*
+critical;improper;*
+very_crit;improper;*
